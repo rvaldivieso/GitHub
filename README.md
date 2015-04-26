@@ -1,1 +1,1 @@
-#Inclye los documento del Diplomado y personales de Raúl Valdivieso
+#Inculye los documento del Diplomado y personales de Raúl Valdivieso
